@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>안녕하세요</title>
+        <title>포트폴리오</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="안녕하세요" />
         <p className="description">
-          개발중<code>pages/index.js</code>
+          개발중입니다<code>pages/index.js</code>
         </p>
       </main>
 
