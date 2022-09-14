@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>포트폴리오</title>
+        <title className="text-amber-600">포트폴리오</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
